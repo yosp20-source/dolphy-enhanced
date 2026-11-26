@@ -40,6 +40,7 @@ object LanguageCatalog {
         AppLanguage("uk", "Українська", "Ukrainian", "UK"),
         AppLanguage("pl", "Polski", "Polish", "PL"),
         AppLanguage("ar", "العربية", "Arabic", "AR", rtl = true),
+        AppLanguage("iw", "עברית", "Hebrew", "HE", rtl = true),
         AppLanguage("hi", "हिन्दी", "Hindi", "HI"),
         AppLanguage("id", "Bahasa Indonesia", "Indonesian", "ID"),
         AppLanguage("zh", "中文", "Chinese (Simplified)", "ZH"),
